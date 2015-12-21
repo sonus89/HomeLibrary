@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Written by Matthew Gal
 # Dec 2014 
 
@@ -30,7 +31,7 @@ class Application(Frame):
 #PROGRAM TITLE
 
 	self.parent.title("Házi Könyvtár")
-	self.parent.iconbitmap('kt.ico')
+	# self.parent.iconbitmap('kt.ico')
 	
 #LABELS
 
